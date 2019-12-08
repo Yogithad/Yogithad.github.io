@@ -1,0 +1,6 @@
+name: "website-Assignment"
+navbar:
+  title: "Website Assignment"
+  left:
+    - text: "Home"
+      href: index.html
